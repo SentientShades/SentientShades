@@ -6,7 +6,17 @@
 
 ---
 hi im senti
-
-
-
 coding niche things since 2019
+---
+
+---
+CONTACTS
+---
+
+business email:
+senticontactme@gmail.com
+
+discord:
+sentiienrshadez
+
+---
