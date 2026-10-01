@@ -25,3 +25,16 @@ discord:
 sentiienrshadez
 
 ---
+
+---
+Team Experience
+--
+
+---
+
+* **Spectre** — *Secondary Programmer & Shader TA*
+  * **Duration:** Feb 28, 2026 – Aug 4, 2026 *
+  * **Status:** closed due to lack of funding *
+  * https://github.com/NaviVani-dev/Spectre-Godot *
+
+---
